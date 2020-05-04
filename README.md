@@ -1,2 +1,2 @@
-# Software_quality_and_testing
+# Software quality and testing
 Set of exercises on NetBeans for testing differents projects. 
