@@ -1,2 +1,2 @@
-# Software quality and testing
+# Test-Driven Development Exercises
 Set of exercises on NetBeans for testing differents projects. 
